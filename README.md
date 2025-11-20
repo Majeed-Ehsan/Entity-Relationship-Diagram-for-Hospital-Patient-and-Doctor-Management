@@ -11,7 +11,7 @@ The ERD helps visualize the entities, their attributes, and the relationships be
 Entities Included
 1. Hospital
 
-Reg No
+Hospital ID
 
 Name
 
@@ -20,6 +20,7 @@ Address (City, Province, Street)
 Email Address
 
 2. Department (Dept)
+Dept ID
 
 Internal Phone No
 
